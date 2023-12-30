@@ -8,3 +8,7 @@
 
 # Description to mysslf :
 Passionate web developer with a knack for crafting clean and interactive user experiences. Proficient in HTML, CSS, JavaScript, and a variety of web technologies. Enthusiastic about open source and always eager to learn and contribute. When I'm not coding, you can find me exploring new technologies, coffee in hand, and ready to make the web a better place. Let's collaborate and build something great together! 🚀 #WebDev #OpenSource
+
+<git-widget data-username="kayssraieb"></git-widget>
+
+<script src="https://unpkg.com/github-devprofile@2/dist/card.component.min.mjs" type="module"></script>
