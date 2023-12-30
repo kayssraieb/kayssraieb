@@ -10,7 +10,5 @@
 Passionate web developer with a knack for crafting clean and interactive user experiences. Proficient in HTML, CSS, JavaScript, and a variety of web technologies. Enthusiastic about open source and always eager to learn and contribute. When I'm not coding, you can find me exploring new technologies, coffee in hand, and ready to make the web a better place. Let's collaborate and build something great together! 🚀 #WebDev #OpenSource
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayssraieb&hide=contribs,prs) 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kayssraieb)](https://github.com/kayssraieb/github-readme-stats)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayssraieb&layout=pie)](https://github.com/kayssrayeb/github-readme-stats)
